@@ -1,4 +1,3 @@
- EXP-1-PROMPT-ENGINEERING-
 
 ## Aim: 
 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
